@@ -1,0 +1,8 @@
+0 Angiodysplasia
+1 Lymphangiectasia 
+2 Normal-cecum
+3 Normal-pylorus
+4 Normal-small
+5 Normal-z-line
+6 Polyps
+7 Ulcerative colitis
