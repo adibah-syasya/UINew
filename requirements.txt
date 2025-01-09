@@ -4,3 +4,4 @@ numpy>=1.26.0
 opencv-python-headless==4.10.0.84
 setuptools>=65.0.0
 keras==2.9.0
+tensorflow==2.9.0
